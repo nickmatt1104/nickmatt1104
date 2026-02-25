@@ -106,7 +106,7 @@ timeline
 
 ## 🏆 KEY ACHIEVEMENTS & STRATEGIC INITIATIVES
 
-### **Financial Services Innovation at Prudential Financial, Inc** *(Sep 2023 – Present)*
+### **Financial Services Innovation at Prudential Financial, Inc** *(Jan 2024 – Present)*
 
 #### 💰 **$1.5M+ Annual Cost Savings Initiative**
 - Architected Apache Spark-based ETL pipelines processing **50M+ insurance records daily**, achieving **20% reduction in processing time** through intelligent partitioning strategies
@@ -125,7 +125,7 @@ timeline
 
 ---
 
-### **Cloud Transformation Leadership at HCL Tech** *(Jul 2020 – Jun 2022)*
+### **Cloud Transformation Leadership at HCL Tech** *(Jul 2020 – Aug 2022)*
 
 #### ☁️ **Azure Migration Program Management**
 - Led **$2.5M cloud migration initiative** transitioning **15TB+ financial datasets** from legacy Teradata/PostgreSQL to Azure Synapse Analytics
