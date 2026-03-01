@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:1e40af&height=280&section=header&text=Sai%20Nikhil%20Mattapalli&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Leader%20|%20Enterprise%20Solutions%20Architect&descAlignY=55&descSize=22)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-nikhil-mattapalli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-nikhil-mattapalli-50074b19b/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickmatt1104@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+1_(838)_900_9824-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18389009824)
 
